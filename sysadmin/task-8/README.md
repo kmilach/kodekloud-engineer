@@ -2,7 +2,7 @@
 
 The sysadmin is tasked with remotely copying the file `/tmp/nautilus.txt.gpg` from the jump server to the `stapp02` server.
 
-This can be accomplished with the scp command like this:
+This can be accomplished with the `scp` command like this:
 
 `scp /tmp/nautilus.txt.gpg steve@stapp02:/home/webdata`
 
