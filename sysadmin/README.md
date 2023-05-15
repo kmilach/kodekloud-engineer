@@ -13,4 +13,5 @@ This role has the following responsabilities:
 - Deploy simple apps
 
 ## Tasks
-1. Create a Linux user with non-interactive shell
+1. Create a Linux user with non-interactive shell ✔️
+2. Linux file permissions
