@@ -15,4 +15,5 @@ This role has the following responsabilities:
 ## Tasks
 1. Create a Linux user with non-interactive shell ✔️
 2. Linux file permissions ✔️
-3. Linux timezone settings
+3. Linux timezone settings ✔️
+4. DNS troubleshooting 
