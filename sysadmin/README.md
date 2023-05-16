@@ -24,4 +24,8 @@ This role has the following responsabilities:
 9. Selinux installation ✔️
 10. Linux NTP setup ✔️
 11. Linux user expiry ✔️
-12. Linux run levels
+12. Linux run levels ✔️
+13. MariaDB troubleshooting ✔️
+14. Linux user files ✔️
+15. Linux string sbstitute (sed) ✔️
+16. Linux SSH authentication
