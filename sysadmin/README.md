@@ -22,4 +22,6 @@ This role has the following responsabilities:
 7. Linux user without home ✔️
 8. Linux remote copy ✔️
 9. Selinux installation ✔️
-10. Linux NTP setup
+10. Linux NTP setup ✔️
+11. Linux user expiry ✔️
+12. Linux run levels
