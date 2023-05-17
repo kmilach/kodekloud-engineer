@@ -14,7 +14,7 @@ This role has the following responsabilities:
 
 ## Tasks
 1. Create a Linux user with non-interactive shell ✔️
-2. Linux file permissions ✔️
+2. Linux file permissions* ✔️
 3. Linux timezone settings ✔️
 4. DNS troubleshooting ✔️
 5. Postfix troubleshooting ✔️
@@ -28,4 +28,7 @@ This role has the following responsabilities:
 13. MariaDB troubleshooting ✔️
 14. Linux user files ✔️
 15. Linux string sbstitute (sed) ✔️
-16. Linux SSH authentication
+16. Linux SSH authentication* ✔️
+17. Linux banner ✔️
+18. Linux services
+19. 
