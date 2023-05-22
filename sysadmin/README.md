@@ -30,5 +30,10 @@ This role has the following responsabilities:
 15. Linux string sbstitute (sed) ✔️
 16. Linux SSH authentication* ✔️
 17. Linux banner ✔️
-18. Linux services
-19. 
+18. Linux services ✔️
+19. Linux string substitute ✔️
+20. Create a cron job ✔️
+21. Linux dollaborative directories ✔️
+22. Linux GPG encryption* ✔️
+23. Add response headers to Apache ✔️
+24. Configure local yum repos 
