@@ -10,3 +10,5 @@ This can be accomplished with editing a file `/etc/yum.repos.d/local_yum.repo` a
 Installing the `samba` package:
 
 ![image](https://github.com/kmilach/kodekloud-engineer/assets/53876300/111bcc2b-51b2-43fa-9558-eb39178b0ad0)
+
+**Reference:** [How To Create Local YUM repository on CentOS 7 / RHEL 7 using DVD](https://www.itzgeek.com/how-tos/linux/centos-how-tos/create-local-yum-repository-on-centos-7-rhel-7-using-dvd.html)
