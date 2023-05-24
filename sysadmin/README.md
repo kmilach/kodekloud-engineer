@@ -42,4 +42,8 @@ This role has the following responsabilities:
 27. Install a package ✔️
 28. Linux logrotate ✔️
 29. Application security ✔️
-30. 
+30. Linux bash scripts ✔️
+31. Linux configure sudo ✔️
+32. Linux find command ✔️
+33. Setup SSL for Nginx ✔️
+34. Linux postfix mail server
