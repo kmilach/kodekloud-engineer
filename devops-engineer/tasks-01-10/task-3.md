@@ -68,3 +68,7 @@ Applying all of these files (remember to use the flag `--namespace=datacenter` a
 After that we use these `kubectl rollout` commands to verify the revisions and rollback the image version.
 
 ![image](https://github.com/kmilach/kodekloud-engineer/assets/53876300/420f99ea-e6bf-4d42-a981-78b7f13f710f)
+
+*References:*
+- [Kubernetes Rolling Update Configuration](https://www.bluematador.com/blog/kubernetes-deployments-rolling-update-configuration)
+- [How do you rollback deployments in Kubernetes?](https://learnk8s.io/kubernetes-rollbacks)
