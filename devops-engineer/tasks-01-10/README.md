@@ -5,3 +5,4 @@
 3. [Rolling Updates And Rolling Back Deployments in Kubernetes](https://github.com/kmilach/kodekloud-engineer/blob/main/devops-engineer/tasks-01-10/task-3.md).
 4. [Git Fork a Repository](https://github.com/kmilach/kodekloud-engineer/blob/main/devops-engineer/tasks-01-10/task-4.md)
 5. [Puppet Install a Package](https://github.com/kmilach/kodekloud-engineer/blob/main/devops-engineer/tasks-01-10/task-5.md)
+6. [Persistent Volume in Kubernetes](https://github.com/kmilach/kodekloud-engineer/blob/main/devops-engineer/tasks-01-10/task-6.md)
